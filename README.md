@@ -1,6 +1,6 @@
 <div align="center">
 <h1> :wave: Merhaba, ben @miladvesv </h1>
-<p> Tamamıyla Kodlarmayı Bilen Bir Ünüversite Örencisi im❤ </p>
+<p> Tamamıyla Kodlarmayı Bilen Biriyim </p>
   
 <h1> :grey_question: Hakkında </h1>
   <p> Benim adım Deniz </p>
